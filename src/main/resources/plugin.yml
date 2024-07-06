@@ -1,0 +1,10 @@
+name: My-Core
+version: '${project.version}'
+main: pl.mymc.mycore.My_Core
+api-version: '1.21'
+prefix: My-Core
+load: STARTUP
+softdepend: [Vault, MInimessage, PlaceholderAPI, bStats]
+authors: [WieszczY]
+description: Wtyczka biblioteczna zawierająca wiele pomocnych kodów i funkcji API
+website: https://github.com/WieszczY85/My-Core
